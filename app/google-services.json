@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "586760566457",
+    "firebase_url": "https://fir-in-app-msging-example.firebaseio.com",
+    "project_id": "fir-in-app-msging-example",
+    "storage_bucket": "fir-in-app-msging-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586760566457:android:b3cb7483683cea28824d68",
+        "android_client_info": {
+          "package_name": "com.buyhatke.firebase_inapp_msg_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586760566457-f89kll7915ofd8286djssed1da5j3spf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buyhatke.firebase_inapp_msg_example",
+            "certificate_hash": "326d5b25e54f991f1e4777645796e3913cc4fb05"
+          }
+        },
+        {
+          "client_id": "586760566457-0tcmh9i38vg7mr75snbhetj5kopqi6mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9W4bJR4peZcU0Jnd8qBqfej7afn5CP14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586760566457-0tcmh9i38vg7mr75snbhetj5kopqi6mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
